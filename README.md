@@ -86,8 +86,4 @@ Add footprints and symbols from jlcpcb with this cmd
 JLC2KiCadLib <...LCSC refs> -dir JLCPCB -symbol_lib JLCPCB
 ```
 
-### PCB reviews
 
-- [Review request on PrintedCircuitBoard (Rev 1.0)](https://www.reddit.com/r/PrintedCircuitBoard/comments/17hjp88/review_request_analog_keyboard)
-- [Second review request on PrintedCircuitBoard (Rev 1.0)](https://www.reddit.com/r/PrintedCircuitBoard/comments/17kqc2j/review_request_analog_keyboard_2/)
-- [Third review request on PrintedCircuitBoard (Rev 2.0)](https://www.reddit.com/r/PrintedCircuitBoard/comments/1h432q5/review_request_open_source_analog_keyboard/)
