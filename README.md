@@ -40,15 +40,7 @@ This is still a work in progress, the first revision is working flawlessly but i
 ## Links
 
 - [keyboard layout](http://www.keyboard-layout-editor.com/#/gists/9dc992fd631d9f29cc5bdf738b10b4e4)
-- [Onshape - Case](https://cad.onshape.com/documents/2af2025c576c4f084cb26625/w/9564bb1d9dfbd4b4af4294c8/e/e2406b8294380372b9116245)
-- [Onshape - Low profile MX keycaps](https://cad.onshape.com/documents/93ff700fd3fbb6e9cde6f6e3)
-- [Rev 1.0 Schema](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fheiso%2Fmacrolev%2Fblob%2Fmain%2Fkicad%2FRev%25201.0%2Fmacrolev.kicad_sch)
-- [Rev 1.0 Pcb](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fheiso%2Fmacrolev%2Fblob%2Fmain%2Fkicad%2FRev%25201.0%2Fmacrolev.kicad_pcb)
-- [Rev 2.0 Schema](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fheiso%2Fmacrolev%2Fblob%2Fmain%2Fkicad%2FRev%25202.0%2Flayout_board%2Flayout_board.kicad_sch)
-- [Rev 2.0 Pcb](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fheiso%2Fmacrolev%2Fblob%2Fmain%2Fkicad%2FRev%25202.0%2Flayout_board%2Flayout_board.kicad_pcb)
-- [Rev 2.0 Schema (daughter board)](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fheiso%2Fmacrolev%2Fblob%2Fmain%2Fkicad%2FRev%25202.0%2Fdaughter_board%2Fdaughter_board.kicad_sch)
-- [Rev 2.0 Pcb (daughter board)](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fheiso%2Fmacrolev%2Fblob%2Fmain%2Fkicad%2FRev%25202.0%2Fdaughter_board%2Fdaughter_board.kicad_pcb)
-- [Web Configurator](https://heiso.github.io/macrolev/)
+
 
 ## Misc
 
